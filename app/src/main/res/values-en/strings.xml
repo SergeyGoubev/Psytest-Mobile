@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">The Leonhard-Shmishek Test</string>
+    <string name="test_name">The Leonhard-Shmishek Test</string>
+    <string name="description">The personality questionnaire, which is designed to diagnose the type of character accentuation, is the implementation of a typological
+        approach to its study.</string>
+    <string name="create_account"><u>I want to create an account</u></string>
+    <string name="time_test">9 minutes</string>
+    <string name="vopros_kol">88 questions</string>
+    <string name="quest">Do you want to take the test?</string>
+    <string name="personal">Profile</string>
+    <string name="test">Test</string>
+    <string name="email"> Email</string>
+    <string name="password"> Password</string>
+    <string name="autorization">Authorization</string>
+    <string name="login">Login</string>
+    <string name="registration">Registration</string>
+    <string name="name">Name</string>
+    <string name="noAccount">I don\'t have an account</string>
+    <string name="reset_password">I forgot my password</string>
+    <string name="gender_check">Gender</string>
+    <string name="register">Create an account</string>
+    <string name="infoAccount">What is an account for?</string>
+    <string name="my_personal">My profile</string>
+    <string name="edit_personal">Edit profile</string>
+    <string name="result">View statistics</string>
+    <string name="logout">Logout</string>
+    <string name="yes"> Yes </string>
+    <string name="no">No</string>
+    <string name="statistic">Statistic</string>
+    <string name="test_desc_header">Test Description</string>
+    <string name="next">Next</string>
+    <string name="diagram_result">Results chart</string>
+    <string name="go_test">Start the test</string>
+
+    <string name="delimiter">*****************************************</string>
+    <string name="typesDescription">Description of psychotypes</string>
+    <string name="demonstrative"> 1. Demonstrative type. It is characterized by an increased ability to repress, demonstrative behavior, liveliness, mobility, ease in
+        establishing contacts. He is prone to fantasy, falsehood and pretense aimed at embellishing his person, adventurism, artistry, posturing. He is driven by the
+        desire for leadership, the need for recognition, the thirst for constant attention to his person, the thirst for power, praise; the prospect of being unnoticed
+        burdens him. </string>
+    <string name="stuck">2. The stuck type. He is characterized by moderate sociability, boredom, a penchant for moralizing, taciturnity. Often suffers from imaginary
+        injustice towards him. In this regard, he is wary and distrustful of people, sensitive to insults and upsets, vulnerable, suspicious, vindictive, experiences
+        what happened for a long time, is not able to "easily move away" from insults. </string>
+    <string name="pedantic">3. Pedantic type. It is characterized by rigidity, inertia of mental processes, heaviness on the rise, long experience of traumatic events.
+        He rarely enters into conflicts, acting as a passive rather than an active party. At the same time, it reacts very strongly to any manifestation of disorder.
+        In the service, he behaves like a bureaucrat, making many formal demands to others.</string>
+    <string name="excitable">4. Excitable type. Insufficient controllability, weakening of control over drives and impulses are combined in people of this type with
+        the power of physiological drives. He is characterized by increased impulsivity, instinctiveness, rudeness, boredom, sullenness, anger, a tendency to rudeness
+        and abuse, to friction and conflicts, in which he himself is an active, provoking party.</string>
+    <string name="hyperthymic">5. Hyperthymic type. People of this type are distinguished by great mobility, sociability, talkativeness, expressive gestures, facial
+        expressions, pantomimics, excessive independence, a tendency to mischief, lack of a sense of distance in relationships with others. They often spontaneously
+        deviate from the original topic in conversation. They make a lot of noise everywhere, they love the companies of their peers, they strive to command them. They
+        almost always have a very good mood, good health, high vitality, often blooming appearance, good appetite, healthy sleep, a tendency to gluttony and other joys of
+        life.</string>
+    <string name="disthymic">6. Dysthymic type. People of this type are distinguished by seriousness, even depression of mood, slowness, weakness of volitional efforts.
+        They are characterized by a pessimistic attitude to the future, low self-esteem, as well as low contact, taciturnity in conversation, even taciturnity.</string>
+    <string name="anxiouslyFearFull">7. An anxious type. People of this type are characterized by low contact, a minor mood, timidity, timidity, self-doubt. Children of
+        the anxious type are often afraid of the dark, animals, afraid to be alone. They avoid noisy and lively peers, do not like excessively noisy games, feel a sense
+        of shyness and shyness, they are hard going through tests, exams, checks. They often hesitate to answer in front of the class. They willingly submit to the
+        guardianship of their elders, adult notations can cause them remorse, guilt, tears, despair.</string>
+    <string name="emotionally">8. Cyclothymic type. It is characterized by a change of hyperthymic and dysthymic states. They are characterized by frequent periodic
+        mood swings, as well as dependence on external events. Joyful events cause them pictures of hyperthymia: thirst for activity, increased talkativeness, leap of
+        ideas; sad - depression, slowness of reactions and thinking, their manner of communication with people around them also often changes. In adolescence, two
+        variants of cyclothymic accentuation can be found: typical and labile cycloids.</string>
+    <string name="emotive">9. The exalted type. The bright feature of this type is the ability to admire, admire, and also - smiling, feeling of happiness, joy,
+        enjoyment. These feelings can often arise in them for a reason that does not cause much uplift in others, they easily become delighted with joyful events and
+        in complete despair – from sad ones. They are characterized by high contact, talkativeness, amorous.</string>
+    <string name="cyclothymic">10. Emotive type. This type is related to the exalted, but its manifestations are not so violent. They are characterized by emotionality,
+        sensitivity, anxiety, talkativeness, fearfulness, deep reactions in the field of subtle feelings. The most pronounced trait is humanity, empathy for other
+        people or animals, responsiveness, soft-heartedness, joy in other people\'s successes. </string>
+    <string name="birthday">Birthday</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+    <string name="test_description">
+        We offer you to take a character accentuation test, or a Schmishek questionnaire, and find out which types of accentuation are most pronounced in you.
+        As the name of the test implies, the questionnaire was developed by Shmishek on the basis of the dominant character traits identified by Leonhard for a particular type.
+        This accentuation test consists of 88 questions concerning 10 types of accentuations.
+    </string>
+    <string name="instruction">
+        You will be offered statements concerning your character.
+        Answer without hesitation for a long time, you can choose one of two answers: "yes" or "no", there are no other answers.
+        You need to click on your answer, after which you will have a button to go to the next question
+    </string>
+    <string name="email_forgot_pass">Enter your email and we will send a new password to your email</string>
+    <string name="send">Send a new password</string>
+    <string name="edit_profile">Editing a profile</string>
+    <string name="old_password">Old password</string>
+    <string name="repeat_new_password">Repeat the new password</string>
+    <string name="new_password">New password</string>
+    <string name="save">Save</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="incorrect">Invalid username or password</string>
+    <string name="successfully">Authorization is successful</string>
+    <string name="enter_email_password">Enter your email and password</string>
+    <string name="length_password">The password must be longer than 8 characters</string>
+    <string name="password_successfully">Password changed successfully</string>
+    <string name="opassword_incorrect">The old password is incorrect</string>
+    <string name="match_password">Passwords must match</string>
+    <string name="opassword_and_npassword">Enter the old password and the new password 2 times</string>
+    <string name="user_not_found">The user with this email was not found</string>
+    <string name="new_password_email">A new password has been sent to your email</string>
+    <string name="enter_email">Enter email</string>
+    <string name="quit_app">Are you sure you want to get out?</string>
+    <string name="quit_profile">Are you sure you want to log out of your personal account?</string>
+    <string name="time">Time\'s up</string>
+    <string name="questio">Question</string>
+    <string name="time_test_new">The time for completing the survey is over. Start from the beginning</string>
+    <string name="ok">Ok</string>
+    <string name="in_result">To the results</string>
+    <string name="answer_saved">Your answer is saved</string>
+    <string name="quit_test">Are you sure you want to complete the test?</string>
+    <string name="fields_required">All fields are required</string>
+    <string name="incorrect_email">You have entered an incorrect email</string>
+    <string name="successfully_registered">You have successfully registered</string>
+    <string name="fail_auth">Authorization error</string>
+    <string name="lang">EN</string>
+    <string name="Typeback">Вернуться к списку типов</string>
+</resources>
